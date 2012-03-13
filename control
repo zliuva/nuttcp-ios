@@ -1,0 +1,10 @@
+Package: com.softboysxp.nuttcp
+Name: nuttcp
+Depends: 
+Version: 5.5.5
+Architecture: iphoneos-arm
+Description: TCP/UDP testing tool (http://www.lcp.nrl.navy.mil/nuttcp/). Distributed under GPLv2. Copyright (c) original authors.
+Maintainer: softboysxp
+Author: softboysxp
+Section: System
+Tag: role::hacker
